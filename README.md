@@ -2,7 +2,8 @@
 
 Emita Karina Käser
 ## Architecture Diagram
-TODO
+![Architecture diagram](architecture.png)
+
 
 ## Lessons learned
 
