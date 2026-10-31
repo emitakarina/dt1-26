@@ -1,6 +1,22 @@
 # DT1 2026 : Enabling Technologies, Assignment 1
 
-The assignment description and requirements are on Moodle.
+Emita Karina Käser
+
+## Lesson's learned
+- Open Router
+    - OpenRouter is an API: my code sends it a question, and it sends back the answer.
+
+- GitHub (History of Code)
+- Deployment (make App accessible)
+- Terminal (text based interface, execute commands)
+- Google Cloud Console 
+    - The Google Cloud Console is a website where you manage your Google Cloud services, like your VM and firewall rules.
+- Virtual Machine 
+    - A virtual machine (VM) is a computer that runs inside a big server in the cloud. You rent it and control it over the internet.
+- Docker 
+    - packs an app and everything it needs into a container, so it runs the same on any computer or server.
+)
+
 
 ## Introduction
 The small flask application presented here is a proxy that we use to interact with OpenRouter API.
