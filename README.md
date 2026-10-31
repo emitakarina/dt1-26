@@ -1,6 +1,8 @@
 # DT1 2026 : Enabling Technologies, Assignment 1
 
 Emita Karina Käser
+## Architecture Diagram
+TODO
 
 ## Lessons learned
 
