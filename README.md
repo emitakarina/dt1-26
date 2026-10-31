@@ -2,21 +2,28 @@
 
 Emita Karina Käser
 
-## Lesson's learned
-- Open Router
-    - OpenRouter is an API: my code sends it a question, and it sends back the answer.
+## Lessons learned
 
-- GitHub (History of Code)
-- Deployment (make App accessible)
-- Terminal (text based interface, execute commands)
-- Google Cloud Console 
-    - The Google Cloud Console is a website where you manage your Google Cloud services, like your VM and firewall rules.
-- Virtual Machine 
-    - A virtual machine (VM) is a computer that runs inside a big server in the cloud. You rent it and control it over the internet.
-- Docker 
-    - packs an app and everything it needs into a container, so it runs the same on any computer or server.
-)
+- **Terminal**: A text window where you type commands to tell the computer what to do, instead of clicking.
+  *Like texting instructions to your computer.*
 
+- **GitHub**: A website that stores my code online and keeps every saved version, so nothing gets lost.
+  *Like a photo album of my project at every step.*
+
+- **Docker**: Packs an app and everything it needs into a "container," so it runs the same on any computer.
+  *Like a lunchbox: everything inside, ready to take anywhere.*
+
+- **Virtual machine (VM)**: A computer inside a big server in the cloud. I rent it and control it over the internet.
+  *Like renting an apartment instead of buying a house.*
+
+- **Google Cloud Console**: The website where I manage my Google Cloud things, like my VM and firewall rules.
+  *Like the control panel of my rented apartment.*
+
+- **Deployment**: Putting my app on an online server, so other people can use it.
+  *Like opening the doors of a shop to customers.*
+
+- **OpenRouter**: An API (a service programs talk to) that sends my app's question to an AI model and returns the answer.
+  *Like a phone operator connecting my call to the right AI.*
 
 ## Introduction
 The small flask application presented here is a proxy that we use to interact with OpenRouter API.
